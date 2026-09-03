@@ -1,4 +1,4 @@
-# Porfirio Optimisation with Monte Carlo Simulation
+# Portfolio Optimisation with Monte Carlo Simulation
 This is a self-directed project, that finds the best stocks to hold in a portfolio, using Monte Carlo simulation to investigate the risk/return trade-off and compares that to the exact optimal portfolio found by numerical optimisation. 
 
 Overview:
@@ -8,7 +8,7 @@ In a set of stocks, there is a trade-off between expected return and risk (volat
 3. Solves for the exact portfolio with the highest possible Sharpe ratio using scipy.optimize, and compares it to the best portfolio found by the Monte Carlo search.
 4. Plots the efficient frontier.
 
-![Efficient frontier](randon_portfolios.png)
+![Efficient frontier](random_portfolios.png)
 When run the program should:
 - Show the stocks’ historical prices and daily returns
 - Show the annualised return for each stock
