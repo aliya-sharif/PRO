@@ -1,6 +1,6 @@
 # Quantitative Projects Portfolio
 
-A collection of projects built to explore the kind of quantitative methods used in finance
+A collection of projects built to explore the kind of quantitative methods used in finance.
 
 # Projects
 
