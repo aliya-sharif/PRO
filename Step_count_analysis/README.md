@@ -1,6 +1,7 @@
 Step Count Analysis: Bootstrap Resampling and Historical Simulation
 
 Overview
+
 I collected data showing how many steps hospitality workers (my colleagues) have done on a Saturday.
 The data was collected via a Google form shared on the work group chat, where 19 people replied
 anonymously. This is a small sample, making a good dataset to explore how much uncertainty a small 
@@ -11,6 +12,7 @@ Historical Simulation - Doesn't assume a distribution, rather it reads the risk 
 from empirical data. "What step-count level marks off the least active 10% of colleagues?"
 
 Structure
+
 step_count_analysis.py     # main analysis: descriptive stats, bootstrap
                              # confidence interval, parametric CI comparison,
                              # Historical Simulation
