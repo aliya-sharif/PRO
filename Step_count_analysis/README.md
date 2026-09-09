@@ -15,8 +15,10 @@ from empirical data. "What step-count level marks off the least active 10% of co
 
 step_count_analysis.py
 - main analysis: descriptive stats, bootstrap, confidence interval
+
 outlier_iqr.py
 - separate script, runs independently of step_count_analysis.py
+
 Setup:
 pip install matplotlib
 python step_count.py
